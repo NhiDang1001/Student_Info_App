@@ -1,4 +1,4 @@
-"""Homework 7. Developed by Nhi Dang. 03.09.2021. """
+"""Student Info App. Developed by Nhi Dang."""
 
 #globals
 students = [] #a global list of students 
