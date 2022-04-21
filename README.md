@@ -1,6 +1,6 @@
 # Student_Info_App
 
-- Link to code: [here]()
+- Link to code: [here](https://github.com/NhiDang1001/Student_Info_App/blob/main/StudentInfoApp.py)
 
 User enters a student name, score, 1/0 for graded or pass/fail basis.
 
